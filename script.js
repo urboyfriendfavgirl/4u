@@ -116,7 +116,7 @@ renderer.setAnimationLoop(() => {
 
 
 var i = 0;
-var txt1 = "buồn ngủ  <đói <giọc đt <bấm gem <iu đcl";
+var txt1 = "";
 var speed = 50;
 typeWriter();
 function typeWriter() {
