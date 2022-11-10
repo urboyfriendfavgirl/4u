@@ -116,7 +116,7 @@ renderer.setAnimationLoop(() => {
 
 
 var i = 0;
-var txt1 = "Sagi yêu dấu...! <Nhưng không hề đầu gấu, <<Sagi babi...!  <Nhưng không hề chi li.  <<Sagi thân mến...! <Nhưng không thích chơi nến.     <<Sagi slay...     <Chắc là có straight =))))) <<Sagi Sagi...!   <Cái tên thật mê li, mê li....!";
+var txt1 = "buồn ngủ  <đói <giọc đt <bấm gem <iu đcl";
 var speed = 50;
 typeWriter();
 function typeWriter() {
